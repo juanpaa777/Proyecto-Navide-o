@@ -4,8 +4,9 @@
 Proyecto navideño que integra diferentes tecnologías IoT, incluyendo control de luces LED, sonido, movimiento y sensores, todo controlado a través de Node-RED y MQTT.
 
 ## Integrantes
-- [Tu nombre]
-- Grupo: [Tu grupo]
+- Juan Diego Pardo Zamarripa
+- Carlos Samael Aguayo Santana
+- Grupo: GDS0643
 
 ## Características Técnicas
 
@@ -37,8 +38,11 @@ Proyecto navideño que integra diferentes tecnologías IoT, incluyendo control d
 ## Materiales Utilizados
 | Componente | Descripción | Cantidad | Precio |
 |------------|-------------|-----------|---------|
-| ESP32 | Microcontrolador IoT | 1 | $ |
+| ESP32 | Microcontrolador IoT | 2 | $ |
 | LEDs | Iluminación decorativa | X | $ |
+| Servomotor | Control de movimiento | 3 | $ |
+| Sensor de temperatura | Control de leds | 1 | $ |
+| Sensor de movimiento | Control de movimiento | X | $ |
 | Servomotor | Control de movimiento | X | $ |
 [Resto de materiales...]
 
