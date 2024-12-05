@@ -1,58 +1,83 @@
 # 🎄 Proyecto Navideño IoT
 
 ## Descripción
-[Descripción breve del proyecto navideño]
+Proyecto navideño que integra diferentes tecnologías IoT, incluyendo control de luces LED, sonido, movimiento y sensores, todo controlado a través de Node-RED y MQTT.
 
 ## Integrantes
-- [Nombre]
-- [Grupo]
+- [Tu nombre]
+- Grupo: [Tu grupo]
 
-## Materiales
-### Componentes Electrónicos
+## Características Técnicas
+
+### 💡 Sistema de Iluminación
+- LEDs programables
+- Patrones de iluminación navideños
+- Control mediante Node-RED
+
+### 🔊 Sistema de Sonido
+- Buzzer integrado
+- Reproducción de melodías navideñas
+- Activación por eventos
+
+### ⚙️ Sistema de Movimiento
+- Servomotores
+- Motores paso a paso
+- Sincronización con luces y sonido
+
+### 📡 Control Remoto
+- Implementación con Node-RED
+- Protocolo MQTT
+- Dashboard de control
+
+### 🔍 Sensores
+- Sensor de movimiento
+- [Otro sensor]
+- Integración con sistema principal
+
+## Materiales Utilizados
 | Componente | Descripción | Cantidad | Precio |
 |------------|-------------|-----------|---------|
 | ESP32 | Microcontrolador IoT | 1 | $ |
-| LEDs | Iluminación | 10 | $ |
-| Servomotor | Movimiento | 1 | $ |
+| LEDs | Iluminación decorativa | X | $ |
+| Servomotor | Control de movimiento | X | $ |
+[Resto de materiales...]
 
-### Materiales Decorativos
-- Material 1
-- Material 2
-
-## Software
-- Thonny
-- Node-RED 
+## Software y Tecnologías
+- Thonny IDE
+- Node-RED
 - MQTT
+- MicroPython
 
-## Funcionalidades
-- Control de luces LED
-- Reproducción de sonidos
-- Movimientos con servomotor
-- Sensores de movimiento
-- Control remoto vía MQTT
+## Documentación Técnica
+### Arquitectura del Sistema
+[Imagen de la arquitectura]
 
-## Arquitectura
-[Imagen de arquitectura]
-
-## Código
-Los archivos de código se encuentran en:
+### Código Fuente
 - `/src` - Código MicroPython
-- `/nodered` - Flujos Node-RED
+- `/nodered` - Flujos de Node-RED
+- `/esquemas` - Diagramas de conexión
 
-## Imágenes
-[Imágenes del proyecto]
+## Evidencias
+### 📸 Imágenes del Proyecto
+[Imágenes del prototipo]
 
-## Video Demostración
+### 🎥 Video Demostrativo
 [Enlace al video]
 
-## Instalación
+### 📱 TikTok Promocional
+[Enlace al TikTok]
+
+### 📜 Certificaciones
+- Certificado JavaScript NetAcad [Imagen]
+
+## Instalación y Configuración
 1. Clonar repositorio
 2. Instalar dependencias
-3. Cargar código al ESP32
-4. Importar flujos Node-RED
+3. Configurar Node-RED
+4. Cargar código al ESP32
 
-## Contribuidores
-- [Nombre]
+## Demostración
+El proyecto estará en exhibición durante 3 días en el área de TI, demostrando todas las funcionalidades mencionadas.
 
 ## Licencia
 MIT
