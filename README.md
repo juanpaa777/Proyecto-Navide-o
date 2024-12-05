@@ -39,12 +39,12 @@ Proyecto navideño que integra diferentes tecnologías IoT, incluyendo control d
 | Componente | Descripción | Cantidad | Precio |
 |------------|-------------|-----------|---------|
 | ESP32 | Microcontrolador IoT | 2 | $ |
-| LEDs | Iluminación decorativa | X | $ |
+| LEDs | Iluminación decorativa | 6 | $ |
 | Servomotor | Control de movimiento | 3 | $ |
 | Sensor de temperatura | Control de leds | 1 | $ |
 | Sensor de movimiento | Control de movimiento | X | $ |
-| Servomotor | Control de movimiento | X | $ |
-[Resto de materiales...]
+| Buzzer | Reproductor de musica navideña | X | $ |
+
 
 ## Software y Tecnologías
 - Thonny IDE
