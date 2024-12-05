@@ -57,7 +57,8 @@ Proyecto navideño que integra diferentes tecnologías IoT, incluyendo control d
 [Imagen de la arquitectura]
 
 ### Código Fuente
-- `/codigo MicroPython/Buzeer-Leds-Nodered.py, ` - Código MicroPython
+- `/codigo MicroPython/Buzeer-Leds-Nodered.py, ` - Código MicroPython (contol de leds, sensor de temperatura, leds, node red, motor de pasos)
+- `/codigo MicroPython/Buzeer-Leds-Nodered.py, ` - Código MicroPython (Control de las articulacione , servomotores)
 - `/nodered` - Flujos de Node-RED
 - `/esquemas` - Diagramas de conexión
 
