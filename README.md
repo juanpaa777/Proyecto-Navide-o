@@ -54,7 +54,7 @@ El proyecto navideño que se propone integra diversas tecnologías de Internet d
 ### Código Fuente
 - `/codigo MicroPython/Buzzer-Leds-Nodered.py` - Código MicroPython (control de LEDs, sensor de temperatura, Node-RED, motor de pasos)
 - `/codigo MicroPython/Control-Articulaciones-Servomotores.py` - Código MicroPython (control de las articulaciones, servomotores)
-- `/nodered` - Flujos de Node-RED
+- `/Node-red/flows (1) (1).json` - Flujos de Node-RED
 
 ## Evidencias
 ### 📸 Imágenes del Proyecto
@@ -64,7 +64,10 @@ El proyecto navideño que se propone integra diversas tecnologías de Internet d
 [https://youtu.be/MvWyDBvwN9Q]
 
 ### 📱 TikTok Promocional
-[Enlace al TikTok]
+[[Enlace al TikTok](https://vm.tiktok.com/ZMkdtPQNb/)]
+### 📱 Histagram Reels
+[[Enlace al TikTok]([https://vm.tiktok.com/ZMkdtPQNb/](https://www.instagram.com/reel/DDKqrYuJevt/?igsh=ZW1qYngxczUyaDI2))]
+
 
 ### 📜 Certificaciones
 - Certificado JavaScript NetAcad
@@ -83,17 +86,16 @@ El proyecto navideño que se propone integra diversas tecnologías de Internet d
   - Examen final
     ![image](https://github.com/user-attachments/assets/f88c7eb3-c71c-4ff6-a55f-720589603c28)
 
-## Instalación y Configuración
-1. Clonar el repositorio
-2. Instalar dependencias
-3. Configurar Node-RED
-4. Cargar código al ESP32
-
 ## Demostración
 El proyecto estará en exhibición durante 3 días en el área de TI, demostrando todas las funcionalidades mencionadas.
 
-## Licencia
-MIT
+## Coevaluación
+### Evaluación Para Carlos Samael Aguayo Santana
+- **Participación:** [Descripción de la participación de Carlos Samael]
+- **Contribuciones Técnicas:** [Descripción de las contribuciones técnicas de Carlos Samael]
+- **Trabajo en Equipo:** [Descripción del trabajo en equipo de Carlos Samael]
+- **Puntaje General:** [Puntaje de 1 a 10]
 
 ---
+
 Desarrollado para la materia Principios de IoT
