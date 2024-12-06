@@ -67,13 +67,35 @@ Proyecto navideño que integra diferentes tecnologías IoT, incluyendo control d
 [Imágenes del prototipo]
 
 ### 🎥 Video Demostrativo
-[Enlace al video]
+[https://youtu.be/MvWyDBvwN9Q]
 
 ### 📱 TikTok Promocional
 [Enlace al TikTok]
 
 ### 📜 Certificaciones
-- Certificado JavaScript NetAcad [Imagen]
+- Certificado JavaScript NetAcad
+- Captirulo 1
+- ![image](https://github.com/user-attachments/assets/698c7110-d1dd-4da7-a0da-9d75405301af)
+
+- Capitulo 2
+- ![image](https://github.com/user-attachments/assets/a52db099-6d6a-4d1d-af59-4c04731553be)
+
+- Capitulo 3
+- ![image](https://github.com/user-attachments/assets/c5dddfca-f713-4f7d-8d9d-401840949b3e)
+
+- Capitulo 4
+- ![image](https://github.com/user-attachments/assets/d1b1baed-a243-43d8-890a-e5c09a56c7a8)
+
+- Capitul 5
+- ![image](https://github.com/user-attachments/assets/ca6cae0b-bd74-4ea4-a50b-3e237bcb0567)
+- 
+- Capitulo 6
+- ![image](https://github.com/user-attachments/assets/390ff04c-3e03-46a8-aa39-38576e97aed9)
+
+- Examen final
+- ![image](https://github.com/user-attachments/assets/f88c7eb3-c71c-4ff6-a55f-720589603c28)
+
+
 
 ## Instalación y Configuración
 1. Clonar repositorio
