@@ -33,23 +33,28 @@ El proyecto navideño que se propone integra diversas tecnologías de Internet d
 - Sensor de temperatura
 
 ## Materiales Utilizados
-| Componente          | Descripción                     | Cantidad | Precio |
-|---------------------|---------------------------------|----------|--------|
-| ESP32               | Microcontrolador IoT            | 2        | $      |
-| LEDs                | Iluminación decorativa          | 6        | $      |
-| Servomotor          | Control de movimiento           | 3        | $      |
-| Sensor de temperatura | Control de LEDs                | 1        | $      |
-| Sensor de movimiento | Control de movimiento           | 1        | $      |
-| Buzzer              | Reproductor de música navideña  | 1        | $      |
+| Nombre del Componente | Descripción | Cantidad | Precio Total |
+|-----------------------|-------------|----------|--------------|
+| ESP32                 | El ESP32 es un microcontrolador de bajo costo y bajo consumo de energía que se utiliza comúnmente en proyectos de Internet de las cosas (IoT) y desarrollo de hardware. | 2 | $150.00 |
+| Cables Dupont         | Los cables Dupont son un tipo de cable utilizado comúnmente en electrónica y robótica para conectar componentes y dispositivos. Estos cables suelen tener conectores de tipo macho y hembra que se acoplan fácilmente, lo que facilita la conexión y desconexión de componentes en prototipos y proyectos. | Muchos | $100.00 |
+| LEDs                  | Los LED (diodos emisores de luz) son dispositivos electrónicos que emiten luz cuando una corriente eléctrica pasa a través de ellos. | Muchos | $100.00 |
+| Servomotor            | Es un tipo de motor eléctrico que se utiliza para controlar con precisión la posición, la velocidad y la aceleración de un sistema mecánico. | 1 | $70.00 |
+| Motor a pasos         | El motor paso a paso es un motor de corriente continua sin escobillas en el que la rotación se divide en un cierto número de pasos resultantes de la estructura del motor. Normalmente, una revolución completa del eje de 360° se divide en 200 pasos, lo que significa que se realiza una sola carrera del eje cada 1,8°. | 1 | $58.00 |
+| Protoboard            | Es una herramienta simple que se usa en proyectos de robótica que permite conectar fácilmente componentes electrónicos entre sí, sin necesidad de realizar una soldadura. | 2 | $80.00 |
+| Serie de LEDs         | Una pequeña serie de luces LED que reciben corriente mediante cables Dupont. | 1 | $10.00 |
+| Buzzer                | Un zumbador (en inglés buzzer) es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono (generalmente agudo). | 2 | $20.00 |
+| Sensor de movimiento  | Un sensor de presencia o sensor de movimiento es un dispositivo electrónico que pone en funcionamiento un sistema (encendido o apagado) cuando detecta movimiento en el área o ambiente en el que está instalado. | 1 | $50.00 |
+| Bola de unicel        | Las bolas de unicel la usamos como la cabezas del personaje. | 1 | $10.00 |
+|foami moldeable        |foami moldeable para hacer las manos y narices. | 5 paquetitos de foami moldeable | $120.00 |
+| Resistol, silicón, cinta | Los usamos para pegar los materiales. | Varios | $50.00 |
+| Pintura               | Usamos pintura para pintar las cabezas, manos y otras cosas. | 2 | $40.00 |
 
-## Software y Tecnologías
-- Thonny IDE
-- Node-RED
-- MicroPython
+## Software Utilizado
+| Nombre de Software | Versión | Tipo |
+|--------------------|---------|------|
+| Thonny             | Reciente| Editor |
+| Node-RED           | Reciente| Conexión WiFi |
 
-## Documentación Técnica
-### Arquitectura del Sistema
-[Descripción de la arquitectura del sistema]
 
 ### Código Fuente
 - `/codigo MicroPython/Buzzer-Leds-Nodered.py` - Código MicroPython (control de LEDs, sensor de temperatura, Node-RED, motor de pasos)
@@ -63,17 +68,14 @@ El proyecto navideño que se propone integra diversas tecnologías de Internet d
 ![image](https://github.com/user-attachments/assets/dd6df926-5d12-418d-a782-7193c20475cc)
 ![image](https://github.com/user-attachments/assets/697538bc-f426-4cc6-b782-b7d8a6972a3e)
 
-
-
-
 ### 🎥 Video Demostrativo
 [https://youtu.be/MvWyDBvwN9Q]
 
 ### 📱 TikTok Promocional
-[[Enlace al TikTok](https://vm.tiktok.com/ZMkdtPQNb/)]
-### 📱 Histagram Reels
-(https://www.instagram.com/reel/DDKqrYuJevt/?igsh=ZW1qYngxczUyaDI2](https://www.instagram.com/reel/DDKqrYuJevt/?igsh=ZW1qYngxczUyaDI2)
+[Enlace al TikTok](https://vm.tiktok.com/ZMkdtPQNb/)
 
+### 📱 Instagram Reels
+[Enlace al Instagram Reels](https://www.instagram.com/reel/DDKqrYuJevt/?igsh=ZW1qYngxczUyaDI2)
 
 ### 📜 Certificaciones
 - Certificado JavaScript NetAcad
