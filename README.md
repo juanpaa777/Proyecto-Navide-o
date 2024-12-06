@@ -58,7 +58,13 @@ El proyecto navideño que se propone integra diversas tecnologías de Internet d
 
 ## Evidencias
 ### 📸 Imágenes del Proyecto
-[Imágenes del prototipo]
+![image](https://github.com/user-attachments/assets/adc0ea1c-fdd9-4844-8cf2-abfdaa4b92d4)
+![image](https://github.com/user-attachments/assets/5b102b30-8f62-4dd8-a3a2-ebf468056b29)
+![image](https://github.com/user-attachments/assets/dd6df926-5d12-418d-a782-7193c20475cc)
+![image](https://github.com/user-attachments/assets/697538bc-f426-4cc6-b782-b7d8a6972a3e)
+
+
+
 
 ### 🎥 Video Demostrativo
 [https://youtu.be/MvWyDBvwN9Q]
@@ -66,7 +72,7 @@ El proyecto navideño que se propone integra diversas tecnologías de Internet d
 ### 📱 TikTok Promocional
 [[Enlace al TikTok](https://vm.tiktok.com/ZMkdtPQNb/)]
 ### 📱 Histagram Reels
-[[Enlace al TikTok]([https://vm.tiktok.com/ZMkdtPQNb/](https://www.instagram.com/reel/DDKqrYuJevt/?igsh=ZW1qYngxczUyaDI2))]
+(https://www.instagram.com/reel/DDKqrYuJevt/?igsh=ZW1qYngxczUyaDI2](https://www.instagram.com/reel/DDKqrYuJevt/?igsh=ZW1qYngxczUyaDI2)
 
 
 ### 📜 Certificaciones
