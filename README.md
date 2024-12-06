@@ -11,14 +11,13 @@ Proyecto navideño que integra diferentes tecnologías IoT, incluyendo control d
 ## Características Técnicas
 
 ### 💡 Sistema de Iluminación
-- LEDs programables
-- Patrones de iluminación navideños
+- LEDs constrolados pos la temperatura del ambiente
+- Patrones de iluminación 
 - Control mediante Node-RED
 
 ### 🔊 Sistema de Sonido
 - Buzzer integrado
 - Reproducción de melodías navideñas
-- Activación por eventos
 
 ### ⚙️ Sistema de Movimiento
 - Servomotores
@@ -28,12 +27,11 @@ Proyecto navideño que integra diferentes tecnologías IoT, incluyendo control d
 ### 📡 Control Remoto
 - Implementación con Node-RED
 - Protocolo MQTT
-- Dashboard de control
 
 ### 🔍 Sensores
 - Sensor de movimiento
-- [Otro sensor]
-- Integración con sistema principal
+- Sensor de temperatura
+- 
 
 ## Materiales Utilizados
 | Componente | Descripción | Cantidad | Precio |
@@ -42,19 +40,18 @@ Proyecto navideño que integra diferentes tecnologías IoT, incluyendo control d
 | LEDs | Iluminación decorativa | 6 | $ |
 | Servomotor | Control de movimiento | 3 | $ |
 | Sensor de temperatura | Control de leds | 1 | $ |
-| Sensor de movimiento | Control de movimiento | X | $ |
-| Buzzer | Reproductor de musica navideña | X | $ |
+| Sensor de movimiento | Control de movimiento | 1 | $ |
+| Buzzer | Reproductor de musica navideña | 1 | $ |
 
 
 ## Software y Tecnologías
 - Thonny IDE
 - Node-RED
-- MQTT
 - MicroPython
 
 ## Documentación Técnica
 ### Arquitectura del Sistema
-[Imagen de la arquitectura]
+
 
 ### Código Fuente
 - `/codigo MicroPython/Buzeer-Leds-Nodered.py, ` - Código MicroPython (contol de leds, sensor de temperatura, leds, node red, motor de pasos)
