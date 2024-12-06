@@ -98,12 +98,14 @@ El proyecto navideño que se propone integra diversas tecnologías de Internet d
 El proyecto estará en exhibición durante 3 días en el área de TI, demostrando todas las funcionalidades mencionadas.
 
 ## Coevaluación
-### Evaluación Para Carlos Samael Aguayo Santana
-- **Participación:** [Descripción de la participación de Carlos Samael]
-- **Contribuciones Técnicas:** [Descripción de las contribuciones técnicas de Carlos Samael]
-- **Trabajo en Equipo:** [Descripción del trabajo en equipo de Carlos Samael]
-- **Puntaje General:** [Puntaje de 1 a 10]
 
+### Retroalimentación sobre el trabajo de un compañero: Carlos Samael Aguayo Santana
+
+- **Aspectos positivos**:Samael destaca por su profundo conocimiento en lenguajes como MicroPython y Arduino. Su habilidad para manejar conexiones y cableado de dispositivos es notable, lo que ha sido un gran aporte para el proyecto.
+  
+- **Áreas de mejora**:Una posible área de mejora para Carlos es la organización y el trabajo en equipo. Sería beneficioso que desarrollara una mayor conciencia sobre el esfuerzo colectivo y la importancia de la colaboración continua con sus compañeros.
+
+- **Aspectos negativos**: Un aspecto negativo es su disposición para colaborar en el trabajo en equipo. Carlos tiende a concentrar su trabajo cerca de las fechas de entrega, lo que puede afectar la dinámica del equipo y la planificación del proyecto.
 ---
 
 Desarrollado para la materia Principios de IoT
