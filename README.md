@@ -1,4 +1,4 @@
-# 🎄 Proyecto Navideño IoT (Dr.Finkelstein)
+# 🎄 Proyecto Navideño IoT (Dr.Finkelstein)👨‍🦲
 
 ## Descripción
 El proyecto navideño que se propone integra diversas tecnologías de Internet de las Cosas (IoT) mediante el uso de dos microcontroladores ESP32, los cuales se encargarán de controlar luces LED, sonido, movimiento y sensores. Este sistema no solo busca embellecer el ambiente festivo, sino también ofrecer una experiencia interactiva y automatizada.
